@@ -35,3 +35,5 @@ zinit ice as"command" \
   src"init.zsh"
 
 zinit light starship/starship
+
+zinit light zdharma-continuum/fast-syntax-highlighting
